@@ -1,0 +1,6 @@
+*.pcap
+*.zip
+hw1/user1
+hw1/user2
+.DS_Store
+*.json

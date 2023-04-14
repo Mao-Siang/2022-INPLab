@@ -1,0 +1,11 @@
+example1.org.
+@,3600,IN,SOA,dns.example1.org. admin.example1.org. 2022121301 3600 300 3600000 3600
+@,3600,IN,NS,dns.example1.org.
+@,3600,IN,MX,10 mail.example1.org.
+@,300,IN,CNAME,dns.example1.org.
+@,1000,IN,TXT,this is
+dns,3600,IN,A,140.113.123.1
+dns,3600,IN,A,140.125.1.1
+dns,3600,IN,AAAA,4321:0:1:2:3:4:567:89ab
+www,300,IN,A,140.113.123.80
+mail,3600,IN,A,140.113.123.10
